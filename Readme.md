@@ -1,5 +1,7 @@
 **This is a repository for the paper "Creating an Intelligent Social Media Campaign Decision-Support Method"**
 
+![Paper methodology](Methodology.png)
+
 _When data is used please cite our paper._
 
 In the file "social-media-campaigns.csv" you can find data collected by the authors from 10 different ecommerce stores.
