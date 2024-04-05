@@ -1,4 +1,4 @@
-**This is a repository for the paper "Creating an Intelligent Social Media Campaign Decision-Support Method"**
+**This is a repository for the paper "Creating an Intelligent Social Media Campaign Decision-Support Method" presented at UMAP 2024 conference**
 
 ![Paper methodology](Methodology.png)
 
