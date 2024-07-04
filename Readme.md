@@ -1,6 +1,20 @@
 **This is a repository for the paper "Creating an Intelligent Social Media Campaign Decision-Support Method" presented at UMAP 2024 conference**
 
+## Citation
+
 _When data is used please cite our paper._
+
+```bibtex
+@inproceedings{gabay2024creating,
+  title={Creating an Intelligent Social Media Campaign Decision-Support Method},
+  author={Gabay, Amir and Solomon, Adir and Guy, Ido and Shapira, Bracha},
+  booktitle={Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization},
+  pages={149--158},
+  year={2024}
+}
+```
+
+## Data
 
 In the "data" directory you can find data collected by the authors from 10 different ecommerce stores.
 
